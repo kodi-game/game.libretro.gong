@@ -15,7 +15,9 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en_GB">Gong v1.0</summary>
-		<description lang="en_GB">Supported files: .gong</description>
+		<description lang="en_GB">Libretro port of Pong by Brad Parker. Original source code by Dan Zaidan. https://danzaidan.itch.io
+
+Supported files: .gong</description>
 		<license>Public Domain</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.gong</source>
