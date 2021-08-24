@@ -16,6 +16,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
+msgctxt "Addon Summary"
+msgid "Gong v1.0"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Libretro port of Pong by Brad Parker. Original source code by Dan Zaidan. https://danzaidan.itch.io
+
+Supported files: .gong"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""
