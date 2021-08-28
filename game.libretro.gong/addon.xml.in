@@ -17,6 +17,10 @@
 		<license>Public Domain</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.gong</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<screenshot>resources/screenshot-01.jpg</screenshot>
+		</assets>
 		<disclaimer>Original source code by Dan Zaidan - https://danzaidan.itch.io</disclaimer>
 		<summary lang="en_GB">Gong v1.0</summary>
 		<description lang="en_GB">Gong is a libretro port of Pong. It is based on Brad Parker&#39;s version of Pong.</description>
