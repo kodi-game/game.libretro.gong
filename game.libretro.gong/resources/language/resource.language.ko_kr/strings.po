@@ -25,6 +25,10 @@ msgctxt "Addon Description"
 msgid "Gong is a libretro port of Pong. It is based on Brad Parker&#39;s version of Pong."
 msgstr ""
 
+msgctxt "Addon Disclaimer"
+msgid "Original source code by Dan Zaidan - https://danzaidan.itch.io"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr "설정"
