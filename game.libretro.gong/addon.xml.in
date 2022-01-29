@@ -24,7 +24,7 @@
 		</assets>
 		<summary lang="en_GB">Gong v1.0</summary>
 		<description lang="da_DK">Gong er en libretro-port af Pong. Den er baseret på Brad Parkers version af Pong.</description>
-		<description lang="en_GB">Gong is a libretro port of Pong. It is based on Brad Parker&apos;s version of Pong.</description>
+		<description lang="en_GB">Gong is a libretro port of Pong. It is based on Brad Parker&#x27;s version of Pong.</description>
 		<disclaimer lang="da_DK">Original kildekode af Dan Zaidan - https://danzaidan.itch.io</disclaimer>
 		<disclaimer lang="en_GB">Original source code by Dan Zaidan - https://danzaidan.itch.io</disclaimer>
 	</extension>
