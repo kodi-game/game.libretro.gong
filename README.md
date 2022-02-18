@@ -9,7 +9,7 @@ Gong is a libretro port of Pong. It is based on Brad Parker's version of Pong.
 
 ### License
 
-Public Domain
+GPL v3
 
 ### Icon
 

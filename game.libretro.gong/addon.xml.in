@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.gong"
 		name="Gong"
-		version="1.0.0.7"
+		version="1.0.0.8"
 		provider-name="Brad Parker">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -15,7 +15,7 @@
 		<requires_opengl>false</requires_opengl>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<license>Public Domain</license>
+		<license>GPL v3</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.gong</source>
 		<assets>
