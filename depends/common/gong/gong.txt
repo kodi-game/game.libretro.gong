@@ -1,1 +1,1 @@
-gong https://github.com/libretro/gong/archive/ccc588aec5aa56fb2111940f9194540e14cabde3.tar.gz
+gong https://github.com/libretro/gong/archive/a5c593c5448044ff545f0dd5ef04043eb89e0f6f.tar.gz
