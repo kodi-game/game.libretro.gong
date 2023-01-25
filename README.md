@@ -13,7 +13,7 @@ GPL v3
 
 ### Icon
 
-![Icon](game.libretro.gong/resources/icon.png)
+![Gong icon](game.libretro.gong/resources/icon.png)
 
 ### Fanart
 
@@ -21,7 +21,7 @@ Help make me fanart!
 
 ### Screenshots
 
-![Screenshot](game.libretro.gong/resources/screenshot-01.jpg)
+![Gong screenshot](game.libretro.gong/resources/screenshot-01.jpg)
 
 ### Disclaimer
 
