@@ -25,6 +25,7 @@
 		<summary lang="da_DK">Gong</summary>
 		<summary lang="en_GB">Gong</summary>
 		<summary lang="es_ES">Gong</summary>
+		<summary lang="zh_CN">Gong</summary>
 		<description lang="da_DK">Gong er en libretro-port af Pong. Den er baseret på Brad Parkers version af Pong.</description>
 		<description lang="de_DE">Gong ist eine Libretro-Portierung von Pong. Sie basiert auf Brad Parkers Version von Pong.</description>
 		<description lang="en_GB">Gong is a libretro port of Pong. It is based on Brad Parker&apos;s version of Pong.</description>
