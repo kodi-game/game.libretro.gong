@@ -33,12 +33,14 @@
 		<description lang="en_GB">Gong is a libretro port of Pong. It is based on Brad Parker&apos;s version of Pong.</description>
 		<description lang="es_ES">Gong es una adaptación de libretro de Pong. Está basado en la versión de Pong de Brad Parker.</description>
 		<description lang="it_IT">Gong è un port libretro di Pong. È basato sulla versione di Pong di Brad Parker.</description>
+		<description lang="sl_SI">Gong je libretro port Pong. Temelji na različici Pong Brada Parkerja.</description>
 		<description lang="zh_CN">Gong 是一个 libretro 的 Pong 移植。它基于 Brad Parker 版本的 Pong。</description>
 		<disclaimer lang="da_DK">Original kildekode af Dan Zaidan - https://danzaidan.itch.io</disclaimer>
 		<disclaimer lang="de_DE">Originalquellcode von Dan Zaidan - https://danzaidan.itch.io</disclaimer>
 		<disclaimer lang="en_GB">Original source code by Dan Zaidan - https://danzaidan.itch.io</disclaimer>
 		<disclaimer lang="es_ES">Código fuente original de Dan Zaidan - https://danzaidan.itch.io</disclaimer>
 		<disclaimer lang="it_IT">Codice sorgente originale di Dan Zaidan - https://danzaidan.itch.io</disclaimer>
+		<disclaimer lang="sl_SI">Izvirna izvorna koda Dan Zaidana - https://danzaidan.itch.io</disclaimer>
 		<disclaimer lang="zh_CN">Dan Zaidan 的原始源代码 - https://danzaidan.itch.io</disclaimer>
 	</extension>
 </addon>
