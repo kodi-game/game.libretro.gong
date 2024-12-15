@@ -28,10 +28,6 @@ msgctxt "Addon Disclaimer"
 msgid "Original source code by Dan Zaidan - https://danzaidan.itch.io"
 msgstr ""
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr ""
-
 msgctxt "#30001"
 msgid "Player 2"
 msgstr ""

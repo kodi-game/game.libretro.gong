@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Original source code by Dan Zaidan - https://danzaidan.itch.io"
 msgstr "Dan Zaidan 的原始源代码 - https://danzaidan.itch.io"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "设置"
-
 msgctxt "#30001"
 msgid "Player 2"
 msgstr "玩家2"
@@ -40,3 +36,7 @@ msgstr "玩家2"
 msgctxt "#30002"
 msgid "Video Refresh Rate (restart)"
 msgstr "视频刷新率（重新启动）"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "设置"

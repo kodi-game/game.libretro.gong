@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Original source code by Dan Zaidan - https://danzaidan.itch.io"
 msgstr "Originalquellcode von Dan Zaidan - https://danzaidan.itch.io"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Einstellungen"
-
 msgctxt "#30001"
 msgid "Player 2"
 msgstr "Spieler 2"
@@ -40,3 +36,7 @@ msgstr "Spieler 2"
 msgctxt "#30002"
 msgid "Video Refresh Rate (restart)"
 msgstr "Bildwiederholfrequenz (Neustart erforderlich)"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Einstellungen"

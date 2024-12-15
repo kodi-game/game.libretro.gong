@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Original source code by Dan Zaidan - https://danzaidan.itch.io"
 msgstr "Izvirna izvorna koda Dan Zaidana - https://danzaidan.itch.io"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Nastavitve"
-
 msgctxt "#30001"
 msgid "Player 2"
 msgstr "Igralec 2"
@@ -40,3 +36,7 @@ msgstr "Igralec 2"
 msgctxt "#30002"
 msgid "Video Refresh Rate (restart)"
 msgstr "Hitrost osveževanja videa (ponovni zagon)"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Nastavitve"
